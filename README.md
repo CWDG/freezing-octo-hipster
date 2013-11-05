@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/CWDG/freezing-octo-hipster.png)](https://travis-ci.org/CWDG/freezing-octo-hipster)
 # Freezing Octo Hipster
 
 This is the twitter clone for the [Collegiate  Web Developers Group](http://cwdg.github.io).
